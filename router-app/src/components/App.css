@@ -1,0 +1,23 @@
+.header{
+  background: #000;
+  padding: 10px;
+}
+
+.header a.item{
+  margin: 10px;
+  text-decoration: none;
+  color: #fff
+}
+
+.header a.item.active{
+  color: red;
+}
+
+.body{
+  padding-top: 10px;
+}
+
+.body .postList a{
+  display: block;
+  padding: 5px;
+}
